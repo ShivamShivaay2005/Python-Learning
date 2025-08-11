@@ -18,7 +18,6 @@ My primary goal is to become proficient in Python. I'll be tracking my progress 
 
 [ ] Build a few small projects to apply what I've learned.
 
-[ ] (Add your own goals here!)
 
 📂 Repository Structure
 I'll be organizing my code and notes into the following structure to keep things tidy:
